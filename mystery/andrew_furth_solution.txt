@@ -52,3 +52,8 @@ Color: Blue
 Owner: Jacqui Maher
 Height: 6'2"
 Weight: 130 lbs
+AAA:Jeremy Bowers
+Delta_SkyMiles:Jeremy Bowers
+Museum_of_Bash_History:Jeremy Bowers
+Terminal_City_Library:Jeremy Bowers
+The killer is Jeremy Bowers
